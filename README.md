@@ -34,3 +34,8 @@ Total Wicketkeepers = 1
 <img width="484" alt="Screenshot 2021-10-14 at 8 07 40 PM" src="https://user-images.githubusercontent.com/42636658/137344991-baccac45-499c-4e25-9f20-c821076765ce.png">
 
 Note: Dataset and Base model is scraped from Kaggle, This is a project which i did within 30 minutes for fun :)
+
+**How you can use this code ?**
+a) Clone this repo
+b) Make sure you change the Dataset path in https://github.com/Prannesh45/Best_IPLXI_2008-2020/blob/main/fantasy-ipl-dream-team.ipynb
+c) Restart and run it again, its done :)
