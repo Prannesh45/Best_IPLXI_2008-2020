@@ -38,5 +38,7 @@ Note: Dataset and Base model is scraped from Kaggle, This is a project which i d
 **How you can use this code ?**
 
 a) Clone this repo
+
 b) Make sure you change the Dataset path in https://github.com/Prannesh45/Best_IPLXI_2008-2020/blob/main/fantasy-ipl-dream-team.ipynb
+
 c) Restart and run it again, its done :)
